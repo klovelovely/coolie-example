@@ -20,5 +20,5 @@ npm install -g coolie
 coolie build webroot-dev
 ```
 
-详细阅读文章：<>
+详细阅读文章：<http://frontenddev.org/article/introductory-coolie-6-coolie-example-demonstration.html>
 
