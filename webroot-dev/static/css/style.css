@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+input, textarea {
+    display: inline-block;
+    border: 1px solid #DDD;
+    padding: 10px 20px;
+    border-radius: 6px;
+    width: 200px;
+    margin: 10px 0;
+}
+
+textarea {
+    display: block;
+    width: 300px;
+}
+
+button {
+    border: 1px solid #DDD;
+    padding: 10px 20px;
+    background: #FFF;
+    border-radius: 6px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+button:active {
+    background: #f6f6f6;
+}
+
+hr{
+    border: 0;
+    border-bottom: 1px dashed #CCC;
+    margin: 20px 0;
+}
+
+#mediaDta2{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ddd;
+    text-align: center;
+    line-height: 200px;
+    color: #888;
+    margin-bottom: 6px;
+}

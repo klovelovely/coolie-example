@@ -1,0 +1,21 @@
+{
+    "js": [
+        "./static/js/app/**/*.js"
+    ],
+    "css": {
+        "path": "./static/css/",
+        "host": ""
+    },
+    "html": [
+        "./views/**/*.html"
+    ],
+    "res": [
+        "./static/img/**/*.*"
+    ],
+    "dest": "../webroot-pro/",
+    "coolie.js": "./static/js/coolie.min.js",
+    "coolie-config.js": "./static/js/coolie-config.js",
+    "copy": [
+        "./**/*.*"
+    ]
+}
