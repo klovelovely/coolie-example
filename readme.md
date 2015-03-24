@@ -1,5 +1,5 @@
 # 启动方法
-安装`sts`（STATIC TRUSTED SERVER，基于 nodejs 的静态服务器）
+安装`sts`（STATIC TRUSTED SERVER，基于 nodejs 的静态服务器，也可以使用其他静态服务器）
 ```
 npm install -g sts
 
