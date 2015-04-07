@@ -8,7 +8,8 @@
 define(function (require, exports, module) {
     'use strict';
 
-    var utils = require('../utils.js');
+    var utils = require('../utils.js'),
+        utils2 = require('../utils2.js');
     var $output = document.getElementById('output');
 
     document.getElementById('input').onkeyup = function () {

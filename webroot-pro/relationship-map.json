@@ -1,0 +1,33 @@
+{
+    "views/area.html": {
+        "css": [
+            {
+                "static/css/255990a3b6b5b76c.css": [
+                    "static/css/font.css",
+                    "static/css/img.css",
+                    "static/css/style.css"
+                ]
+            }
+        ],
+        "main": "static/js/app/area.js",
+        "deps": [
+            "static/js/utils.js"
+        ]
+    },
+    "views/length.html": {
+        "css": [
+            {
+                "static/css/255990a3b6b5b76c.css": [
+                    "static/css/font.css",
+                    "static/css/img.css",
+                    "static/css/style.css"
+                ]
+            }
+        ],
+        "main": "static/js/app/length.js",
+        "deps": [
+            "static/js/utils.js",
+            "static/js/utils2.js"
+        ]
+    }
+}
