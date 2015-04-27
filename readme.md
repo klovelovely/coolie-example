@@ -1,5 +1,17 @@
+# 在线演示
+
+## 开发环境
+- 计算圆面积：<http://coolie-example-dev.ydr.me/views/area.html>
+- 计算圆周长：<http://coolie-example-dev.ydr.me/views/length.html>
+
+
+## 生产环境
+- 计算圆面积：<http://coolie-example-pro.ydr.me/views/area.html>
+- 计算圆周长：<http://coolie-example-pro.ydr.me/views/length.html>
+
+
 # 启动方法
-安装`sts`（STATIC TRUSTED SERVER，基于 nodejs 的静态服务器，也可以使用其他静态服务器）
+安装`sts`（基于 nodejs 的静态服务器）
 ```
 npm install -g sts
 
