@@ -3,12 +3,10 @@
     "src": [
       "./static/js/app/**/*.js"
     ],
-    "coolie.js": "./static/js/coolie.min.js",
     "coolie-config.js": "./static/js/coolie-config.js"
   },
   "css": {
-    "dest": "./static/css/",
-    "host": ""
+    "dest": "./static/css/"
   },
   "html": {
     "src": [
@@ -19,6 +17,11 @@
   "resource": {
     "dest": "./static/res/"
   },
-  "dest": "../webroot-pro/",
-  "copy": []
+  "dest": {
+    "dirname": "../webroot-pro/",
+    "host": "http://coolie-example-pro.ydr.me/"
+  },
+  "copy": [
+    "./static/js/coolie.min.js"
+  ]
 }
