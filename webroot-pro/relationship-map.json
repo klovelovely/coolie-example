@@ -9,7 +9,10 @@
                 ]
             }
         ],
-        "main": ""
+        "main": "static/js/app/area.js",
+        "deps": [
+            "static/js/utils.js"
+        ]
     },
     "views/length.html": {
         "css": [
@@ -21,6 +24,10 @@
                 ]
             }
         ],
-        "main": ""
+        "main": "static/js/app/length.js",
+        "deps": [
+            "static/js/utils.js",
+            "static/js/utils2.js"
+        ]
     }
 }
