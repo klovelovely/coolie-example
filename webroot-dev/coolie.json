@@ -10,7 +10,8 @@
   },
   "html": {
     "src": [
-      "./views/**/*.html"
+      "./views/**/*.html",
+      "./index.html"
     ],
     "minify": true
   },

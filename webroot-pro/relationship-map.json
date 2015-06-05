@@ -29,5 +29,9 @@
             "static/js/utils.js",
             "static/js/utils2.js"
         ]
+    },
+    "index.html": {
+        "css": [],
+        "main": ""
     }
 }
