@@ -22,6 +22,5 @@
     "host": "http://coolie-example-pro.ydr.me/"
   },
   "copy": [
-    "./static/js/coolie.min.js"
   ]
 }
